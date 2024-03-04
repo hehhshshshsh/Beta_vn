@@ -16,6 +16,10 @@ Section:Button("HTB_HUB V2",function()
 
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/hehhshshshsh/BY_NGUEN_VU_DUY/main/HTB_HUB_V2.lua")))()
 end)
+Section:Button("HTB_HUB V2",function()
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/hehhshshshsh/BY_NGUEN_VU_DUY/main/HTB_HUB_V2.lua")))()
+end)
 -- Create Section on Right Side
 local Section2 = Tab1:Section("- Bên Phải -","Right")
 -- Text , Callback
